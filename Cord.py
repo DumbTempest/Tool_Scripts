@@ -1,3 +1,4 @@
+
 #gives u cord of a pointer of screen
 
 import tkinter as tk
